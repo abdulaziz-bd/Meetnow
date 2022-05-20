@@ -3,11 +3,12 @@ body {
 }
 
 h1 {
-   font-family: 'Montserrat', sans-serif;
-   font-weight: 900;
-   font-size: 3rem;
-   line-height: 1.5;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 900;
+  font-size: 3rem;
+  line-height: 1.5;
 }
+
 h2 {
   font-family: "Montserrat";
   font-weight: bold;
@@ -18,15 +19,12 @@ h3 {
   font-weight: bold;
 }
 
-
-
 /*######################## CLASS SELECTORS ########################*/
 .Container-fluid {
   padding: 7% 15%;
 }
 
 /* -----Navbar------ */
-
 .navbar {
   padding-bottom: 4.5rem;
 }
@@ -53,23 +51,18 @@ h3 {
 }
 
 /* Titles start here */
-
 #title {
   background-color: #ff4c68;
   color: #fff;
 }
 
-
 /* Title image */
-
 .title-image {
   width: 60%;
   transform: rotate(25deg);
 }
 
-
 /* Fetures container */
-
 .feature-box {
   text-align: center;
 }
@@ -97,7 +90,6 @@ h3 {
   color: #8f8f8f;
 }
 
-
 /* Testimonials start here */
 #testimonials {
   text-align: center;
@@ -123,7 +115,6 @@ h3 {
 }
 
 /* Press section start here */
-
 #press {
   background-color: #ef8172;
   text-align: center;
